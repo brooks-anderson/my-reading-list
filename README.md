@@ -1,2 +1,5 @@
 # About
 A collection of media I plan to read, am currently reading, or have read.
+---
+# Topics
+## Data Science
