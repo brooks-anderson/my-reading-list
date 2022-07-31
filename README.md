@@ -4,7 +4,7 @@ A collection of media I plan to read, am currently reading, or have read.
 
 :heavy_check_mark: Public  
 :large_orange_diamond: Source Issue  
-:x: Paywall
+:x: Paywall  
 :new_moon_with_face: arXiv
 
 # Content
