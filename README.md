@@ -11,7 +11,7 @@ A collection of media I plan to read, am currently reading, or have read.
 
 >## [Data Science](#data-science)
 >
->+ Privacy Enhancing Technologies
+>+ Data Synthesis & Privacy
 >+ [Bayesian ML](#bayesian-machine-learning)
 >+ Deep Learning
 >+ Professional
@@ -28,7 +28,8 @@ A collection of media I plan to read, am currently reading, or have read.
 
 #### Bayesian Machine Learning
 
-+ [ ] :new_moon_with_face: David M. Blei, Alp Kucukelbir, & Jon D. McAuliffe (2017). Variational Inference: A Review for Statisticians. Journal of the American Statistical Association, 112(518), 859-877. Available at <https://arxiv.org/abs/1601.00670>.
++ [ ] :new_moon_with_face: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). Variational Inference: A Review for Statisticians. Journal of the American Statistical Association, 112(518), 859-877. `https://doi.org/10.1080/01621459.2017.1285773`. Available at <https://arxiv.org/abs/1601.00670>.  
++ [x] :heavy_check_mark: Gelman, A. (2006). Multilevel (Hierarchical) Modeling: What It Can and Cannot Do. Technometrics, 48(3), 432-435. `https://doi:10.1198/004017005000000661`. Available at <http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf>.
 
 #### Style
 
