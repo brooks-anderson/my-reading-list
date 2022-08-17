@@ -12,7 +12,7 @@ A collection of media I plan to read, am currently reading, or have read.
 >## [Data Science](#data-science)
 >
 >+ [Data Synthesis & Privacy](#data-synthesis-privacy-id)
->+ [Bayesian ML](#bayesian-machine-learning)
+>+ [Bayesian ML](#bayesian-machine-learning-id)
 >+ Deep Learning
 >+ Professional
 >+ [Style](#style)
@@ -26,7 +26,7 @@ A collection of media I plan to read, am currently reading, or have read.
 >
 ## Data Science
 
-#### <a name="data-synthesis-privacy-id">Data Synthesis & Privacy
+#### <a name="data-synthesis-privacy-id"></a>Data Synthesis & Privacy
 
 + [x] :heavy_check_mark: Little, C. (2021, December 1-3). **Generative Adversarial Networks for Synthetic Data Generation: A Comparative Study.** Expert Meeting on Statistical Data Confidentiality. Poznań, Poland. Available at <https://unece.org/statistics/documents/2021/12/working-documents/generative-adversarial-networks-synthetic-data>.
 + [x] :heavy_check_mark: Patki, N., Wedge, R., & Veeramachaneni, K. (2016). **The Synthetic Data Vault.** In 2016 IEEE International Conference on Data Science and Advanced Analytics (DSAA) (pp. 399-410). Available at <https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf>.
@@ -39,7 +39,7 @@ A collection of media I plan to read, am currently reading, or have read.
 + [x] :heavy_check_mark: Xu, L., Skoularidou, M., Cuesta-Infante, A., and Veeramachaneni, K. (2019). **Modeling Tabular Data Using Conditional GAN.** Proceedings of the 33rd International Conference on Neural Information Processing Systems. Article 659, 7335–7345. Available at <https://dl.acm.org/doi/10.5555/3454287.3454946>.
 + [ ] :heavy_check_mark: Zhang, J., Cormode, G., Procopiuc, C., Srivastava, D., & Xiao, X. (2017). **PrivBayes: Private Data Release via Bayesian Networks.** ACM Trans. Database Syst., 42(4). Available at <https://dl.acm.org/doi/10.1145/3134428>.
 
-#### Bayesian Machine Learning
+#### <a name="bayesian-machine-learning-id"></a>Bayesian Machine Learning
 
 + [ ] :new_moon_with_face: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). **Variational Inference: A Review for Statisticians.** Journal of the American Statistical Association, 112(518), 859-877. `https://doi.org/10.1080/01621459.2017.1285773`. Available at <https://arxiv.org/abs/1601.00670>.  
 + [x] :heavy_check_mark: Gelman, A. (2006). **Multilevel (Hierarchical) Modeling: What It Can and Cannot Do.** Technometrics, 48(3), 432-435. `https://doi:10.1198/004017005000000661`. Available at <http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf>.
@@ -48,6 +48,6 @@ A collection of media I plan to read, am currently reading, or have read.
 
 + [ ] :heavy_check_mark: van Rossum, G., Warsaw, B., & Coghlan, N. (2001, July 5). **PEP 8 – Style Guide for Python Code.** Available at <https://peps.python.org/pep-0008>.
 
-## <a name="privacy-issues-regulation-and-philosophy-id">Privacy: Issues, Regulation, and Philosophy
+## <a name="privacy-issues-regulation-and-philosophy-id"></a>Privacy: Issues, Regulation, and Philosophy
 
 ## <a name="recreation-id"></a>Recreation
