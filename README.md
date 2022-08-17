@@ -19,7 +19,7 @@ A collection of media I plan to read, am currently reading, or have read.
 >
 >## [Privacy: Issues, Regulation, and Philosophy](#privacy-issues-regulation-and-philosophy)
 >
->## [Recreation](#recreation)
+>## [Recreation](#recreation-link)
 >
 >+ Fiction
 >+ Nonfiction
@@ -50,4 +50,4 @@ A collection of media I plan to read, am currently reading, or have read.
 
 ## Privacy: Issues, Regulation, and Philosophy
 
-## <a name="recreation"></a>Recreation
+## <a name="recreation-link"></a>Recreation
