@@ -11,22 +11,22 @@ A collection of media I plan to read, am currently reading, or have read.
 
 >## [Data Science](#data-science)
 >
->+ [Data Synthesis & Privacy](#data-synthesis-privacy)
+>+ [Data Synthesis & Privacy](#data-synthesis-privacy-id)
 >+ [Bayesian ML](#bayesian-machine-learning)
 >+ Deep Learning
 >+ Professional
 >+ [Style](#style)
 >
->## [Privacy: Issues, Regulation, and Philosophy](#privacy-issues-regulation-and-philosophy)
+>## [Privacy: Issues, Regulation, and Philosophy](#privacy-issues-regulation-and-philosophy-id)
 >
->## [Recreation](#recreation-link)
+>## [Recreation](#recreation-id)
 >
 >+ Fiction
 >+ Nonfiction
 >
 ## Data Science
 
-#### Data Synthesis & Privacy
+#### <a name="data-synthesis-privacy-id">Data Synthesis & Privacy
 
 + [x] :heavy_check_mark: Little, C. (2021, December 1-3). **Generative Adversarial Networks for Synthetic Data Generation: A Comparative Study.** Expert Meeting on Statistical Data Confidentiality. Poznań, Poland. Available at <https://unece.org/statistics/documents/2021/12/working-documents/generative-adversarial-networks-synthetic-data>.
 + [x] :heavy_check_mark: Patki, N., Wedge, R., & Veeramachaneni, K. (2016). **The Synthetic Data Vault.** In 2016 IEEE International Conference on Data Science and Advanced Analytics (DSAA) (pp. 399-410). Available at <https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf>.
@@ -48,6 +48,6 @@ A collection of media I plan to read, am currently reading, or have read.
 
 + [ ] :heavy_check_mark: van Rossum, G., Warsaw, B., & Coghlan, N. (2001, July 5). **PEP 8 – Style Guide for Python Code.** Available at <https://peps.python.org/pep-0008>.
 
-## Privacy: Issues, Regulation, and Philosophy
+## <a name="privacy-issues-regulation-and-philosophy-id">Privacy: Issues, Regulation, and Philosophy
 
-## <a name="recreation-link"></a>Recreation
+## <a name="recreation-id"></a>Recreation
