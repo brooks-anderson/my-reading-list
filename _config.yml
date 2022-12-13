@@ -1,0 +1,21 @@
+title: brooks-anderson
+# email: your-email@example.com
+# description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://brooks-anderson.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username: brooks-anderson
+
+# Build settings
+#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: brooks-anderson/just-the-docs
+# theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+search_enabled: true
+aux_links:
+  '<i class="fa fa-github fa-2x"></i>':
+    - "//github.com/brooks-anderson"
+  '<i class="fa fa-linkedin fa-2x"></i>':
+    - "//linkedin.com/in/brooks-s-anderson"
