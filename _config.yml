@@ -20,3 +20,11 @@ aux_links:
     - "//github.com/brooks-anderson"
   '<i class="fa fa-linkedin fa-2x"></i>':
     - "//linkedin.com/in/brooks-s-anderson"
+
+nav_external_links:
+  - title: Home
+    url: https://brooks-anderson.github.io
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+  - title: Projects
+    url: https://brooks-anderson.github.io/projects
+    hide_icon: true
