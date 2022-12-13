@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reading List
+nav_order: 3
 ---
 
 A collection of media I plan to read, am currently reading, or have read.  
